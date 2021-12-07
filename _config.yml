@@ -17,7 +17,7 @@ navbar-links:
   Acerca de: "aboutme"
   Recursos:
     - Videos: "https://beautifuljekyll.com"
-    - Documentación: "https://www.markdowntutorial.com/"
+    - Docs: "https://www.markdowntutorial.com/"
  
 
 # --- Logo --- #
