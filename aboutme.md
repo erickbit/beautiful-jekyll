@@ -10,9 +10,10 @@ Equipo:
 Integrantes:
             
 ![Angel](./Images/Angel.jpeg)            
-### Becerra Barragan Angel de Jesús 
-
-### Godínez Aguilera Erick Andrés 
+##### Becerra Barragan Angel de Jesús 
+![Erick](./Images/Erick.jpeg) 
+##### Godínez Aguilera Erick Andrés 
 ![Eddie](./Images/Eddie.jpeg)   
-### Hernández García Eduardo                   
-### Navarrete Garcia Oscar Ulises 	
+##### Hernández García Eduardo
+![Oscar](./Images/Oscar.jpeg) 
+##### Navarrete Garcia Oscar Ulises 	
