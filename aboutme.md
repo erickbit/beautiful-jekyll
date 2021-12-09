@@ -13,6 +13,6 @@ Integrantes:
 ### Becerra Barragan Angel de Jesús 
 
 ### Godínez Aguilera Erick Andrés 
-![image](Eddie.jpg)   
+![image](image/Eddie.jpg)   
 ### Hernández García Eduardo                   
 ### Navarrete Garcia Oscar Ulises 	
