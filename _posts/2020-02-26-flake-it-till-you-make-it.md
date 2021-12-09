@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: La filosofía Smart Home
 subtitle: ¿Qué nos define?
 ---
