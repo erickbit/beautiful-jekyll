@@ -12,7 +12,7 @@ Integrantes:
 
 ![Angel](./Images/Angel.jpeg)            
 #### Becerra Barragan Angel de Jesús 
-![Erick](./Images/Erick.jpeg) 
+![Erick](./Images/Erick.jpg) 
 #### Godínez Aguilera Erick Andrés 
 ![Eddie](./Images/Eddie.jpeg)   
 #### Hernández García Eduardo
