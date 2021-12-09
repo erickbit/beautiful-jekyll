@@ -8,7 +8,8 @@ Equipo:
 ### Los Padrinos
 
 Integrantes:
-            
+
+<img src="./Images/Angel.jpeg" alt="Ángel" width="200px" height="200px">
 ![Angel](./Images/Angel.jpeg)            
 #### Becerra Barragan Angel de Jesús 
 ![Erick](./Images/Erick.jpeg) 
