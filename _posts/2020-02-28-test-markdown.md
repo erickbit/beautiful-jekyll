@@ -37,12 +37,12 @@ El objetivo con el cual elaboramos este proyecto es con el fin de poder ayudar a
 
 ### Componentes y características:
 
-1.- LEDS
-2.- Servomotores
-3.- Arduino Mega
-4.- Protoboard
-6.- Buzzer
-7.- jumpers
+* LEDS
+* Servomotores
+* Arduino Mega
+* Protoboard
+* Buzzer
+* Jumpers
 
 
 
