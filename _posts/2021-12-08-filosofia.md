@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: post
 title: El proyecto
 subtitle: Algunas imágenes de EZ Smart Home
 ---
+
+Aquí hay una pequeña galería de fotos del proyecto, para darse una idea con este prototipo del potencial que se puede alcanzar.
+
 
 ![casa 1](../Images/casa1.png)  
 #### Imagen de EZ Smarthome
