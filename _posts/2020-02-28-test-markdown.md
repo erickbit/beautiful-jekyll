@@ -5,7 +5,7 @@ subtitle: Conoce  más
 comments: true
 ---
 
-### Introdución
+### Introdución:
 Una casa inteligente busca hacer más eficientes los sistemas de seguridad, comunicación y sobre todo la automatización.
 En cuanto a seguridad, permite el control de acceso y salida de la casa, alarmas, sensores de fuego, humo y fugas de gas. el objetivo es estar al tanto de los sensores y tener una mejor capacidad de respuesta en caso de algún incidente
 El control de la iluminación, permite apagar o prender cualquier luz desde cualquier punto de la vivienda
@@ -24,6 +24,10 @@ Convertirnos en proveedores de soluciones tecnológicas y automatizadas en el se
 ### Objetivo
 
 El objetivo con el cual elaboramos este proyecto es con el fin de poder ayudar a la sociedad en ciertas actividades del cuidado de nuestros hogares mediante la automatización del hogar para que con ello las personas puedan utilizar ese tiempo en algo de su interés. 
+
+### Alcance del proyecto
+
+Diseñar y crear un compilador para el proyecto integrador EZ Smart Home, posteriormente realizar el enmaquetado paro visualizar su funcionamiento en un formato físico en el plazo del Semestre Agosto - Diciembre 2021, y de acuerdo con los temas que marca el programa de la materia de Lenguajes y Automatas II.
 
 
 ### Funcionalidades:
